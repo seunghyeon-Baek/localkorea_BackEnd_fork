@@ -7,4 +7,3 @@
 ## 🕒 개발 기간 
 ### 2023.12.08 - 2024.01.16 <br>
 
-<img src="https://github.com/seunghyeon-Baek/ToDoList/assets/150358806/59e146c8-bf24-43cb-88b9-d28ed64d81dd" width="100%"><br>
